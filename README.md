@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### 🔭 I’m currently working on [WELT Corp](https://github.com/weltcorp)
+#### 🌱 I'm currently learning `Node.js`, `Javascript`
 <!--
 **jjongbumeee/jjongbumeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
